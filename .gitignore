@@ -38,3 +38,29 @@ out/
 
 ### Kotlin ###
 .kotlin
+/target/classes/application.properties
+/target/classes/application.yaml
+/target/classes/application-dev.yaml
+/target/classes/application-heroku.yaml
+/target/classes/one/digitalinnovation/avengers/domain/avenger/Avenger.class
+/target/classes/META-INF/avenger-api.kotlin_module
+/target/test-classes/META-INF/avenger-api.kotlin_module
+/target/classes/one/digitalinnovation/avengers/resource/avenger/AvengerEntity$Companion.class
+/target/classes/one/digitalinnovation/avengers/resource/avenger/AvengerEntity.class
+/target/classes/one/digitalinnovation/avengers/resource/avenger/AvengerEntityRepository.class
+/target/classes/one/digitalinnovation/avengers/domain/avenger/AvengerRepository.class
+/target/classes/one/digitalinnovation/avengers/resource/avenger/AvengerRepositoryImpl.class
+/target/classes/one/digitalinnovation/avengers/application/web/resource/request/AvengerRequest$Companion.class
+/target/classes/one/digitalinnovation/avengers/application/web/resource/request/AvengerRequest.class
+/target/classes/one/digitalinnovation/avengers/application/web/resource/AvengerResource.class
+/target/classes/one/digitalinnovation/avengers/application/web/resource/AvengerResourceKt.class
+/target/classes/one/digitalinnovation/avengers/application/web/resource/response/AvengerResponse$Companion.class
+/target/classes/one/digitalinnovation/avengers/application/web/resource/response/AvengerResponse.class
+/target/classes/one/digitalinnovation/avengers/AvengersApiApplication.class
+/target/classes/one/digitalinnovation/avengers/AvengersApiApplicationKt.class
+/target/test-classes/one/digitalinnovation/avengers/AvengersApiApplicationTests.class
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
